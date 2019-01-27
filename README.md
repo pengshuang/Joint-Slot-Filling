@@ -6,3 +6,7 @@ Intent prediction and slot filling are performed in two branches based on Encode
 
 ## Environment 
 `PyTorch >= 0.4.0`
+
+## Reference
+
+https://github.com/DSKSD/RNN-for-Joint-NLU
